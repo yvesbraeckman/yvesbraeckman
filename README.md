@@ -13,10 +13,12 @@ One of my most recent projects is the **Smart Parcel Wall**, a seamless integrat
 ### 🛠️ Tech Stack & Skills
 
 **Software & Web Development**
-*   **Languages:** TypeScript, Python, C++
-*   **Frameworks:** Angular, NestJS
-*   **Databases:** MongoDB, PostgreSQL
-*   **Tools & Misc:** Git, Docker, LaTeX
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,cpp,angular,nestjs" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,git,raspberrypi,latex" />
+</p>
 
 **Hardware & Embedded Systems**
 *   **Microcontrollers:** Raspberry Pi, ESP32, ATmega328p
